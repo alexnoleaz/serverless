@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: serverless
+
+amazon:
+  dynamodb:
+    local: false
